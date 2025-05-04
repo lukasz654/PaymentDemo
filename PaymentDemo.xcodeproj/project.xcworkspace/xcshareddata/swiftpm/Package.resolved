@@ -1,0 +1,15 @@
+{
+  "originHash" : "468cebaa06a00afaa092f7fc8c5b79865d777d9e91e8acb3c45a6151ed811896",
+  "pins" : [
+    {
+      "identity" : "paymentkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukasz654/PaymentKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3c5ab3d89062387745316a9cceb7a6329ceafc71"
+      }
+    }
+  ],
+  "version" : 3
+}
